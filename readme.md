@@ -29,11 +29,11 @@ It is clear that the appearance of the mode and the similarity of other generate
 
 Below, is the result of the experiment on CFar10. It took a lot of time and the low quality is due to lack of time. The mode is Cat in thie following experiment result.
 
-**Fig. 3**- Simple GAN - mode cat - 8k iteration
+**Fig. 5**- Simple GAN - mode cat - 8k iteration
 
 <img src="figs/simple-CFar10-8k.jpg" width=400>
 
-**Fig. 4**- minibatch GAN - mode Cat - 8k iteration
+**Fig. 6**- minibatch GAN - mode Cat - 8k iteration
 
 <img src="figs/MB-CFar10-8k.jpg" width=400>
 
