@@ -1,6 +1,4 @@
 ## **A Comparison of GAN and minibatch-GAN**
-### **Spring 2021**
-___
 
 ### **Introduction**
 The goal of this projects is providing a comparison between simple GAN and the minibatch GAN. MNIST datasets have been used for this purpose.
@@ -30,7 +28,12 @@ Below, final results of using two different characters as the mode and showing t
 It is clear that the appearance of the mode and the similarity of other generated images is reduced as well.
 
 ### **Note**
-Please note that for running this code it is necessary to use tensorflow version 1.15. For setting the version to this
+Please note that for running this code it is necessary to use tensorflow version 1.15. For setting the version to this run the command below. 
+
+``pip install tensorflow==1.15``
+
+It can be even written and ran in your colab notebook.
+
 ### **References**
 This code has been gathered and developed with help of multipule good references and webpages including:
 
