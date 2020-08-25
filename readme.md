@@ -27,16 +27,6 @@ Below, final results of using two different characters as the mode and showing t
 
 It is clear that the appearance of the mode and the similarity of other generated images is reduced as well.
 
-Below, is the result of the experiment on CFar10. It took a lot of time and the low quality is due to lack of time. The mode is Cat in thie following experiment result.
-
-**Fig. 5**- Simple GAN - mode cat - 8k iteration
-
-<img src="figs/simple-CFar10-8k.jpg" width=400>
-
-**Fig. 6**- minibatch GAN - mode Cat - 8k iteration
-
-<img src="figs/MB-CFar10-8k.jpg" width=400>
-
 
 ### **Note**
 Please note that for running this code it is necessary to use tensorflow version 1.15. For setting the version to this run the command below. 
